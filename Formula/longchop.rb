@@ -1,9 +1,9 @@
 class Longchop < Formula
   desc "CLI tool for displaying and analyzing file contents with tree-like structure"
   homepage "https://github.com/donphi/longchop"
-  url "https://github.com/donphi/longchop/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "1b183817dc7ab16dda8c73b29b46844cfac6e3b9ffd26f066c62e471774488ab" # We'll update this after creating the release
-  version "1.1.1"
+  url "https://github.com/donphi/longchop/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "797c67f240e9f766fc3dbc6087499833dd84f451446e4b474ea63bcac9b8f95b" # We'll update this after creating the release
+  version "1.1.2"
   
   depends_on "tree"
 
